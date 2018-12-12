@@ -11,6 +11,7 @@ namespace ConsoleApplication5
         static void Main(string[] args)
         {
             Console.WriteLine("Закомство с GitHub");
+            Console.WriteLine("Проверка изменений на сервере");
         }
     }
 }
